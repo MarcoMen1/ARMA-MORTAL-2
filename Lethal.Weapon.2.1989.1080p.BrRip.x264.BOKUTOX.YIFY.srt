@@ -225,7 +225,7 @@ No hay suficiente espacio.
 
 53
 00:04:43,027 --> 00:04:45,018
-¡Mira mi panel lateral!
+Mira mi panel lateral!
 
 54
 00:04:55,474 --> 00:04:57,874
